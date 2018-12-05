@@ -1,21 +1,13 @@
 {
-  "name": "pfr-stack",
+  "name": "pfr-todo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "react-dev": "webpack --mode development --watch"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jeongle/pfr-stack.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jeongle/pfr-stack/issues"
-  },
-  "homepage": "https://github.com/jeongle/pfr-stack#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",
